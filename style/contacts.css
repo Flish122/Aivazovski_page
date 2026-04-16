@@ -55,6 +55,13 @@
     font-weight: 500;
 
 }
+
+.mobile-navigation-close {
+    position: absolute;
+    top: 55px;
+    right: 30px;
+}
+
 @media (max-width: 480px) {
     .socials {
         gap: 20px;
